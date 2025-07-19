@@ -23,5 +23,5 @@ It is a **good faith proposal** grounded in compliance with existing frameworks.
 
 ---
 
-✉️ Contact: [Your GitHub email or repo Discussions link]  
+✉️ Contact: [Start a discussion](https://github.com/veronello/hybrid-ai-company-architecture/discussions)
 📜 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
